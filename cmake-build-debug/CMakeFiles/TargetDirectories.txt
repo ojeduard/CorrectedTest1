@@ -1,0 +1,9 @@
+/Users/eduardoojeda/Desktop/Ing Sistemas/Programacion II/partial-test-1-q2-ojeduard/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/eduardoojeda/Desktop/Ing Sistemas/Programacion II/partial-test-1-q2-ojeduard/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/eduardoojeda/Desktop/Ing Sistemas/Programacion II/partial-test-1-q2-ojeduard/cmake-build-debug/tst/CMakeFiles/partial-test-1-q2-colegiado_tst.dir
+/Users/eduardoojeda/Desktop/Ing Sistemas/Programacion II/partial-test-1-q2-ojeduard/cmake-build-debug/tst/CMakeFiles/rebuild_cache.dir
+/Users/eduardoojeda/Desktop/Ing Sistemas/Programacion II/partial-test-1-q2-ojeduard/cmake-build-debug/tst/CMakeFiles/edit_cache.dir
+/Users/eduardoojeda/Desktop/Ing Sistemas/Programacion II/partial-test-1-q2-ojeduard/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/eduardoojeda/Desktop/Ing Sistemas/Programacion II/partial-test-1-q2-ojeduard/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/eduardoojeda/Desktop/Ing Sistemas/Programacion II/partial-test-1-q2-ojeduard/cmake-build-debug/src/CMakeFiles/partial-test-1-q2-colegiado_lib.dir
+/Users/eduardoojeda/Desktop/Ing Sistemas/Programacion II/partial-test-1-q2-ojeduard/cmake-build-debug/src/CMakeFiles/partial-test-1-q2-colegiado_run.dir
